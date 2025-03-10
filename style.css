@@ -4,7 +4,6 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-attachment: fixed;
     background-color: dimgray;
     background:url(https://m.media-amazon.com/images/M/MV5BZjFhZWVmZjUtYTZkNy00NWYyLTgyMDEtNTQwN2MzNTFhMDUzXkEyXkFqcGdeQXVyMTA4OTg1Mzc1._V1_.jpg) ;
 }
